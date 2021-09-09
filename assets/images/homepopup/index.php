@@ -1,0 +1,1 @@
+<script>location.href='https://layanan.labura.go.id/auth/blocked'</script>
